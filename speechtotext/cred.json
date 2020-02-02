@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tech-together-2020",
+  "private_key_id": "c5e4c2714b03d5d3af35c693d708d49427233208",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6rAWESWvTHn4W\nDx0GHhTDC1Vn6iJtfbtm4ORZSqU/yS5OAVlttv9HkEkD/fzYAg0mdjmanue5oqQ6\nkaecLWm0RKq9GZRq/LYifxUCAi2KE63HHToVICTwNNmIKiFtRmT7hJotqlkoQuAB\nNMWcpG0S9epB7qI8dKYG/rsye/yNQdSCjA2lQ2sRSoYH28xl/6I0Q/yM52bmNbH3\n4P3EqtF8xPna23vEgKnCPSW8mEatCiWRxbTwQ4poSj2azFpKbOuAI8J0SIQJtPMb\nTpeYA2aFJSlXB67OSbb7kCFg7hNLjr90nZqLhjkggh1ttxGVkUrz+YC34/ledvvg\nQ5JOgQpXAgMBAAECggEAAMlArLHydk0mksk1ghUWWUvu7CUcSAHDjEdeLtIVqBMc\n0s9GpSOkJ5T/+bhUHETF8WeGDpSkvS9mKaj7X7kBPPUdEvbMnTa7PaHzYLLJpk82\n6CPDXttnzGssj1o+Ecu+GSER1SdmgLjnYJnsSyCWJQJMHkL3A/Ip0NW5zBihk6a1\nd3h9sdzagbw0TMHF5y2KRc0/8e1G7N8INMRlkzihXq6efnM9lJOuO/Kbdm6KDWNy\n9S2KXlBgbFftMSmCdtXa56rOZG+D3+zn58zGz5+0B/5TWYMBj7S3PlUO1PhasPgZ\nBOWNzgTjbMUCaeEH9DlC4KQrUWpB3aIeTPKe4KtSAQKBgQD3M1REih3mZLe5ai5p\nGaIoy+pje5LctMffRFuPU7e1rUEcOwasMLnRUMDFTaTB5DANyDN92Ca7d6pmLmn6\n8GCvPk8CCgxeHlKhnIx6eoV2dAO68IqWiqwUItvrhmrSeifwiJnK20/jLx3Kgtl6\ni5+FhRw1oHjO5MHMM9LZ2sz3wQKBgQDBURy7yt6uy3M7B1lMJ8e5Fyt0ut0GWGzS\n4zGivNErSfXKFPJ2s/+ZtzK4g1r0J+xSkXT0clHr9AKXV1Pg4wbpONLXYQug34eT\nn4RUZVzdzCl1+LWbUFgeKgwsjVrBcg+helLtw/miUXPsEHttEDzOzICT0yzCsV/q\nDAy1ZojIFwKBgEhn5Hre6bseLSJGE6n9NB42/ER/YZj76r9eymLE5r50LOoT7/Rn\noUXKHWytPWD9cYXX6h0mPtISTvr3BVvXJLqvyXyTbOP0hceIjy0gzg7QFHehFTbb\nD2QmgbwO9yMHXMN7f3CHpHKqzlMO2JyoYOU/A/BBPKF9J7akR1JAYGEBAoGBAI5R\noM3ANOCKd3LlniAqySbCoAN37nBVeQhoqoocaAFumb0EXtx095+692RPkA5fteOz\nol60KwuCwMWaTO4rNVNNuitGDsGIzs8niMx5Mz02qO9pAootRDIw0nWaO05fIpLG\n83aH6KhPPwBzweoxIhM9CwvJVBKhcvNjm5eQvPJRAoGBAMwBarsxPXKdzjK12oWz\nHd/DUbSpaP5oKTC+9QsUs3zibgG1Uv/y4AHMXdDCjEEV4V1xPzcOO72MMPc/53VH\nkkgTqMa+TesUNr7K2BuB7oezunL3XpS0Myi9clXuTm7L3EqY0KNpr4U6lBvAdhXX\nopTNNkRgQeZCAi7Gg5Sw45vm\n-----END PRIVATE KEY-----\n",
+  "client_email": "techtogether@tech-together-2020.iam.gserviceaccount.com",
+  "client_id": "117545809063295469780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techtogether%40tech-together-2020.iam.gserviceaccount.com"
+}
